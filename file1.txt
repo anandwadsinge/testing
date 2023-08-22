@@ -1,1 +1,2 @@
 This is first lie inserted
+This is first feature of our application
